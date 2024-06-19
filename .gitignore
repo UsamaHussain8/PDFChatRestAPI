@@ -1,0 +1,6 @@
+.env
+Readme.txt
+ChatPDFAPIEnv/
+__pycache__/
+trained_db/
+*.sqlite3
